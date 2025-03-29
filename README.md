@@ -20,7 +20,7 @@ YtSingleCropper is a desktop application that allows you to download cropped You
 
 1️⃣ Requirements
 
-Python 3.x must be installed.
+Python  must be installed.
 
 FFmpeg must be available and working.
 
