@@ -49,6 +49,14 @@ To create a standalone .exe file, use the following command:
 pyinstaller --onefile --add-data "assets:assets"  YtSingleCropperV01.py
 
 
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/8ce41c51-65eb-4ecd-b406-94950ceb6725)
+
+![image](https://github.com/user-attachments/assets/0cabff10-202f-4c21-965d-0e8f5f14b553)
+
+![image](https://github.com/user-attachments/assets/ddaf5e17-147b-4bb5-96bc-d6343f4e5e07)
+
+
 🤝 Contributing
 
 If you’d like to contribute, feel free to open a pull request or report issues via GitHub Issues. For more information, visit the GitHub Repo.
