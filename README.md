@@ -1,6 +1,6 @@
-Youtube Video Cropper
+Youtube Video Trimmer
 
-Youtube Video Cropper is a desktop application that allows you to download cropped YouTube videos within a specific time range. Using yt-dlp and FFmpeg, it provides a user-friendly interface for trimming and downloading videos easily.
+Youtube Video Trimmer is a desktop application that allows you to download cropped YouTube videos within a specific time range. Using yt-dlp and FFmpeg, it provides a user-friendly interface for trimming and downloading videos easily.
 
 🚀 Features
 
